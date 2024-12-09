@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "Premium VTC Service",
+    "subtitle": "Experience the perfect blend of luxury, comfort, and reliability",
+    "bookButton": "Book Your Ride"
+  },
+  "benefits": {
+    "premiumFleet": {
+      "title": "Premium Fleet",
+      "description": "Luxury vehicles for every occasion"
+    },
+    "safe": {
+      "title": "Safe & Secure",
+      "description": "Professional drivers, vetted for excellence"
+    },
+    "service247": {
+      "title": "24/7 Service",
+      "description": "Available whenever you need us"
+    },
+    "payment": {
+      "title": "Easy Payment",
+      "description": "Seamless and secure transactions"
+    }
+  },
+  "booking": {
+    "title": "Book Your Ride",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phone": "Phone Number",
+    "pickup": "Pickup Location",
+    "destination": "Destination",
+    "carType": {
+      "label": "Select Car Type",
+      "economy": "Economy",
+      "business": "Business",
+      "luxury": "Luxury"
+    },
+    "price": {
+      "title": "Journey Details",
+      "distance": "Distance",
+      "estimated": "Estimated Price",
+      "basePrice": "Base price: €10 + €2/km"
+    },
+    "submit": "Book Now"
+  }
+}

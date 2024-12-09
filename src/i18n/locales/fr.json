@@ -1,0 +1,51 @@
+{
+  "hero": {
+    "title": "Service VTC Éco-Responsable",
+    "subtitle": "Transport professionnel avec véhicules hybrides Toyota",
+    "bookButton": "Réserver maintenant"
+  },
+  "benefits": {
+    "premiumFleet": {
+      "title": "Flotte Hybride",
+      "description": "Véhicules Toyota dernière génération"
+    },
+    "safe": {
+      "title": "Sécurité & Confort",
+      "description": "Chauffeurs expérimentés et professionnels"
+    },
+    "service247": {
+      "title": "Service 24/7",
+      "description": "À votre service jour et nuit"
+    },
+    "payment": {
+      "title": "Paiement Simple",
+      "description": "Transactions rapides et sécurisées"
+    }
+  },
+  "booking": {
+    "title": "Réserver votre trajet",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "phone": "Téléphone",
+    "pickup": "Adresse de départ",
+    "destination": "Adresse d'arrivée",
+    "carType": {
+      "label": "Type de véhicule",
+      "eco": "Camry Business",
+      "standard": "Corolla Hybride",
+      "family": "RAV4 Hybride",
+      "van": "Prius+ 7 places"
+    },
+    "price": {
+      "title": "Détails du trajet",
+      "distance": "Distance",
+      "estimated": "Prix estimé",
+      "basePrice": "Tarif de base : 8€ + 1.5€/km"
+    },
+    "submit": "Confirmer la réservation"
+  },
+  "fleet": {
+    "title": "Notre Flotte Éco-Responsable",
+    "subtitle": "Des véhicules hybrides Toyota pour tous vos déplacements"
+  }
+}

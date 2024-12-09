@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for map markers */
+.start-marker {
+  filter: hue-rotate(120deg); /* Green tint for start marker */
+}
+
+.end-marker {
+  filter: hue-rotate(240deg); /* Blue tint for end marker */
+}
+
+/* Ensure Leaflet container takes full height */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  border-radius: 0.5rem;
+}
